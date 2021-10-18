@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("No content 2!");
+            Console.WriteLine("No content 3, cloned!");
         }
     }
 }
